@@ -3,3 +3,4 @@ unit_test.jar
 bin/App.class
 bin/Calculator.class
 bin/Test1.class
+bin/CalculatorTest.class

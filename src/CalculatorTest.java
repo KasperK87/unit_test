@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class Test1 {
+public class CalculatorTest {
 
     private final Calculator calculator = new Calculator();
 
